@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-common/common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-common/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-common/common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-common/common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-server-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service-client/service-cart-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service-client/service-order-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service-client/service-product-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service-client/service-user-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/service-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/service-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/service-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/service-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/service-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system-service/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

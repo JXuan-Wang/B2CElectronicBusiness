@@ -1,0 +1,14 @@
+项目介绍：一个B2C模式的电子商务平台，包含后台管理系统和前台用户系统。
+负责部分：整个后端开发，项目配置与部署
+使用技术：springboot，springcloud alibaba，ssm，redis，docker，maven，mysql，nginx，minio，knife4j，swagger
+业务功能介绍：
+	后台管理系统：平台管理员用来维护系统相关的基础数据，使用springboot架构+element-UI开发。包含用户登录、权限管理、商品管理、商品分类管理、商品规格管理、订单管理等
+	前台用户系统：使用springcloud架构+uni-app开发。包含首页数据显示，分类显示、查询商品数据、用户注册登录、购物车模块、订单模块等
+项目亮点：
+	前后端分离开发
+	使用minio布置个人的对象存储服务器，实现图片的存储
+	使用redis+spring cache实现用户登录验证和缓存使用
+	使用AOP技术+注解实现操作日志记录功能
+	使用spring task实现定时任务功能
+	整合EasyExcel批量数据导出导入功能，支付宝支付服务，短信服务
+	使用docker整合harbor对项目进行自动化运维

@@ -1,0 +1,14 @@
+server:
+  port: 8513
+
+spring:
+  application:
+    name: service-cart
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.239.129:8848
+  data:
+    redis:
+      host: 192.168.239.129
+      port: 6379
